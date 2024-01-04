@@ -1,0 +1,67 @@
+---
+title: "Campaign Memo"
+---
+
+:::{.callout-important}
+Final Draft Due February 16th at 11:59 pm on Canvas.
+
+We will do peer reviews at an earlier date.
+:::
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](/data/paper2.pdf)
+
+## Purpose
+
+This assignment will help you think critically about the role of Latino voters in American elections. Additionally, you will practice identifying key pieces of information to inform campaign strategy.
+
+
+## Task
+
+*Write a 4- to 6-page memo for a state-wide campaign (single-spaced, 12-point font, 1-inch margins) that focuses on Latine outreach. Imagine you are part of the staff and have been hired specifically to help the campaign define its strategy for Latine outreach. In the memo, provide your candidate and the campaign with the information and advice they need to understand the Latine population in their state and how this might impact any campaign messaging and/or mobilization efforts.*
+
+Make sure to provide clear takeaways for your candidate and campaign. Think about three things you want the staff to remember and be able to execute. The information and analysis you present support those conclusions.
+
+
+## Criteria for success
+
+A successful essay will:
+
+1. Describe the characteristics of the Latine population in the state.
+2. Provide an analysis of the potential for mobilizing these voters and how you would do this.
+3. Clearly define three takeaways for the campaign about how to reach out to Latine voters considering their proportion of the state population.
+4. Have a coherent structure (paragraphs and headers are your friends here) and no grammatical errors.^[I recommend you use software like Grammarly to have one less thing to worry about.]
+5. Reference at least two readings from class using [Chicago style](https://politics.ucsc.edu/undergraduate/chicago%20style%20guide.pdf) for citations (i.e., footnotes). 
+
+Cite academic work in an appropriate tone for the audience. For example, I recommend not using the article's title or even mentioning the authors in the text. Instead, just say "researchers," "scholars," "political scientists," "sociologists," or use any other general terms. The full reference should be in the footnote, per Chicago style. 
+
+
+## Resources
+
+Here are some examples of campaign and political memos. These address various groups a campaign might target so it will be useful to look at them again. Use these examples to understand the genre and see how they are structured. Consider the following: What is important in these pieces of writing? How are those goals reflected in how the text is organized? How is it reflected in the tone of the piece?
+
+- [Biden campaign memo example](https://www.wispolitics.com/2020/biden-campaign-memo)
+- [Buttigieg campaign memo example](https://www.documentcloud.org/documents/6785938-Path-to-Nomination.html)
+- [Memo to Trump on fake electors scheme](https://int.nyt.com/data/documenttools/chesebro-dec-6-memo/ce55d6abd79c2c71/full.pdf)
+- [DeSantis memo](https://s3.documentcloud.org/documents/23874013/0051_001.pdf)
+
+
+## Peer Review
+
+Just like we did before, you will provide feedback on this assignment for one of your peers. This time, we will do this through Canvas. After the deadline to submit your draft, Canvas will automatically assign you someone else's draft.
+
+As I said in class, and for lack of a better phrase, I want you to be ***constructively ruthless*** and ***nice***.^[There is no either-or here, it is both-and (as some religious traditions like to say).] Point out what is well done and areas for improvement (organization, formatting, missing information, unsupported conclusions, etc.). You can use the following questions as a guide to evaluate the draft:
+
+1. Does the memo provide clear takeaways on the first page?
+2. Is the purpose of the memo clear?
+3. Does the memo describe the *religious* characteristics of the state as a whole?
+4. Does the memo describe the *political* characteristics of the state as a whole?
+5. Given the religious characteristics of the state population, does the memo discuss particular religious groups in more detail (i.e., their religious and political orientations)?
+6. Given the characteristics of the candidate *and* of the state population, does the memo provide a clear answer to whether and how the candidate should reach out to potential voters?
+7. Does the memo provide clear, actionable strategies for the campaign staff?
+8. Does the memo use data and appropriately cite sources (e.g., using footnotes)?
+9. Does the memo provide sufficient information without overwhelming the reader?
+10. Does the memo's organization help effectively communicate the main points?
+11. Does the memo use headers in a clear way? Are the paragraphs single spaced? Is there space between paragraphs? Does the memo use lists and bullet points appropriately?
+
+
+

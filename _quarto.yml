@@ -1,0 +1,87 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "POL 330: Latino/a/e Politics in the U.S."
+  site-url: "https://pol330.spring24.equezadallanes.com/"
+  
+  navbar:
+    pinned: true
+    background: "#633296"
+    right:
+      - text: "Syllabus"
+        file: index.qmd
+      - text: "Schedule"
+        file: schedule.qmd
+      - text: "Content"
+        file: content/01-intro.qmd
+      - text: "Assignments"
+        file: assignment/index.qmd
+      - text: "Resources"
+        file: resource/index.qmd
+
+  sidebar:
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Overview"
+          contents:
+            - assignment/index.qmd
+        - section: "Assignments"
+          contents:
+            - assignment/weekly-summaries.qmd
+            - assignment/response-paper.qmd
+            - assignment/campaign-memo.qmd
+            - assignment/oral-presentation.qmd
+        - section: "Research Design Paper"
+          contents: 
+            - assignment/research-question.qmd
+            - assignment/literature-review.qmd
+            - assignment/research-design.qmd
+            - assignment/final-paper.qmd
+            
+    - title: "Content"
+      contents:
+        - section: "Topics"
+          contents:
+            - content/01-intro.qmd
+            - content/02-latino-identity.qmd
+            - content/03-politicized-identities.qmd
+            - content/04-partisanship-opinion.qmd
+            - content/05-participation.qmd
+            - content/06-historical-context.qmd
+            - content/07-latino-activism.qmd
+            - content/08-immigration.qmd
+            - content/09-representation.qmd
+            - content/10-elections.qmd
+            - content/11-multiracial-coalitions.qmd
+    
+    - title: "Resources"
+      contents:
+        - section: "Overview"
+          contents:
+            - resource/index.qmd
+            - resource/reading.qmd
+            - resource/writing.qmd
+            - resource/summaries.qmd
+            - resource/peer_review.qmd
+            - resource/citations.qmd
+            - resource/website.qmd
+
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    highlight-style: monokai
+
+filters:
+  - newpagelink.lua
+  
+resources: 
+  - CNAME
