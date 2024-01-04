@@ -6,10 +6,10 @@ Writing a summary may seem to some like an easy task, while others might find it
 
 A summary should help you or someone else understand the **main points** of the piece as well as some of its **context.** It should answer the following questions:
 
-1. Why is the text relevant? Why did the author(s) write it?
-2. What is the main conclusion of the text? 
-3. How do the author(s) reach their conclusions?
-4. (Optional, but useful) How does this work fit in with other texts or your observations?
+1. What is the main purpose of the text and why is it relevant? Why did the author(s) write it?
+2. What is the main conclusion of the text? What are the main findings?
+3. How do the author(s) reach their conclusions? What evidence do they provide?
+4. (Optional, but useful) How does this work fit in with other texts or your own observations?
 
 I would argue that a good summary for a journal article can be short (~5 sentences) or a bit longer (three-quarters of a page), depending on the level of detail that is required. For this class, anything in between these two lengths will suffice. I care much more about the *content* of the summary than its length.
 
