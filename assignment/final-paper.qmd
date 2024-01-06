@@ -3,9 +3,9 @@ title: "Final paper"
 ---
 
 :::{.callout-important}
-Due May 7th at 5:00 pm on Canvas for seniors
+**For seniors:** Due May 7th at 5:00 pm on Canvas
 
-Due May 8th at 5:00 pm on Canvas for non-seniors
+**For non-seniors:** Due May 8th at 5:00 pm on Canvas
 :::
 
 Write a research design paper of at least 8 double-spaced pages (12-point font, 1-inch margins) that includes the following sections:
