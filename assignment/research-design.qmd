@@ -1,10 +1,28 @@
 ---
 title: "Theory and Research Design"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POL 330 - Latino Politics in the U.S. \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
 ---
 
 :::{.callout-important}
 Due April 12th at 11:59 pm on Canvas
 :::
+
+::: {.content-visible when-format="html"}
+[<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](research-design.pdf)
+:::
+
 
 ## Purpose
 
@@ -31,13 +49,6 @@ A successful theory and research design sections will:
 3. Use strong and clear topic sentences to convey the key points.
 4. Discuss what data you would use to empirically test your expectations. Specify the relevant variables as much as possible.
 5. Have a coherent structure and no grammatical errors
-
-
-
-
-:::{.callout-note}
-This assignment will count as 5% of your final grade (part of the total 20% of the final paper).
-:::
 
 
 
