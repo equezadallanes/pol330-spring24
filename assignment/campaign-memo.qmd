@@ -1,14 +1,35 @@
 ---
 title: "Campaign Memo"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POL 330 - Latino Politics in the U.S. \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
 ---
 
+
 :::{.callout-important}
+
+## Deadline
+
 Final Draft Due February 16th at 11:59 pm on Canvas.
 
 We will do peer reviews at an earlier date.
 :::
 
-[<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](/data/paper2.pdf)
+
+::: {.content-visible when-format="html"}
+[<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](campaign-memo.pdf)
+:::
+
 
 ## Purpose
 
@@ -17,7 +38,7 @@ This assignment will help you think critically about the role of Latino voters i
 
 ## Task
 
-*Write a 4- to 6-page memo for a state-wide campaign (single-spaced, 12-point font, 1-inch margins) that focuses on Latine outreach. Imagine you are part of the staff and have been hired specifically to help the campaign define its strategy for Latine outreach. In the memo, provide your candidate and the campaign with the information and advice they need to understand the Latine population in their state and how this might impact any campaign messaging and/or mobilization efforts.*
+Write a 4- to 6-page memo for a state-wide campaign (single-spaced, 12-point font, 1-inch margins) that focuses on Latine outreach. Imagine you are part of the staff and have been hired specifically to help the campaign define its strategy for Latine outreach. In the memo, provide your candidate and the campaign with the information and advice they need to understand the Latine population in their state and how this might impact any campaign messaging and/or mobilization efforts.
 
 Make sure to provide clear takeaways for your candidate and campaign. Think about three things you want the staff to remember and be able to execute. The information and analysis you present support those conclusions.
 
