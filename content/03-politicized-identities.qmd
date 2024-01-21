@@ -8,6 +8,17 @@ title: "Politicized Identities: Group Consciousness and Linked Fate Among Latino
 
 1. **Sanchez, Gabriel, Natalie Masuoka, and Brooke Abrams. 2019. "Revisiting the Brown-Utility Heuristic: A Comparison of Latino Linked Fate in 2006 and 2016." *Politics, Groups, and Identities* 7(3): 673–83.** [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1080%2F21565503.2019.1638803)
 
+
+::: {.content-visible when-format="html"}
+### Discussion Questions
+
+- We will continue with our discussion from Friday.
+
+1. What does it mean to have a sense of linked fate with someone from your same ethnic/racial group? Can you see this in the people around you (e.g., do they have a sense of ethnic/racial linked fate)?
+2. Why have scholars applied concepts such as group consciousness and linked fate that come from the scholarship on Black politics to Latines? Do these models fit Latines?
+3. Do Sanchez, Masuoka, and Abrams (2019) find consistency across time in what factors contribute to a sense of Latino linked fate? Explain.
+:::
+
 ---
 
 
@@ -25,7 +36,7 @@ We will discuss the [campaign memo](../assignment/campaign-memo.html)
 
 ## Friday, January 26
 
-### Readings
+### Readings (no reading)
 
-1. Sanchez, Gabriel R., and Edward D. Vargas. 2016. "Taking a Closer Look at Group Identity: The Link between Theory and Measurement of Group Consciousness and Linked Fate." *Political Research Quarterly* 69(1): 160–74. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1177%2F1065912915624571) 
+~~1. Sanchez, Gabriel R., and Edward D. Vargas. 2016. "Taking a Closer Look at Group Identity: The Link between Theory and Measurement of Group Consciousness and Linked Fate." *Political Research Quarterly* 69(1): 160–74.~~ [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1177%2F1065912915624571) 
 
