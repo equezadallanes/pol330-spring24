@@ -24,9 +24,6 @@ title: "Politicized Identities: Group Consciousness and Linked Fate Among Latino
 
 ## Wednesday, January 24
 
-### Readings
-
-1. Lavariega Monforti, Jessica, and Gabriel R. Sanchez. 2010. "The Politics of Perception: An Investigation of the Presence and Sources of Perceptions of Internal Discrimination Among Latinos." *Social Science Quarterly* 91(1): 245–65. {{< fa file-pdf >}} available on Canvas
 
 We will discuss the [campaign memo](../assignment/campaign-memo.html)
 
@@ -36,7 +33,9 @@ We will discuss the [campaign memo](../assignment/campaign-memo.html)
 
 ## Friday, January 26
 
-### Readings (no reading)
+### Readings
 
-~~1. Sanchez, Gabriel R., and Edward D. Vargas. 2016. "Taking a Closer Look at Group Identity: The Link between Theory and Measurement of Group Consciousness and Linked Fate." *Political Research Quarterly* 69(1): 160–74.~~ [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1177%2F1065912915624571) 
+1. ~~Sanchez, Gabriel R., and Edward D. Vargas. 2016. "Taking a Closer Look at Group Identity: The Link between Theory and Measurement of Group Consciousness and Linked Fate." *Political Research Quarterly* 69(1): 160–74.~~ [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1177%2F1065912915624571) 
+
+2. Lavariega Monforti, Jessica, and Gabriel R. Sanchez. 2010. "The Politics of Perception: An Investigation of the Presence and Sources of Perceptions of Internal Discrimination Among Latinos." *Social Science Quarterly* 91(1): 245–65. {{< fa file-pdf >}} available on Canvas
 
