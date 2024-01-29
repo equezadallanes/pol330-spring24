@@ -8,6 +8,13 @@ title: "Latino Partisanship, Ideology, and Public Opinion"
 
 1. **Alvarez, R. Michael, and Lisa García Bedolla. 2003. "The Foundations of Latino Voter Partisanship: Evidence from the 2000 Election." *The Journal of Politics* 65(1): 31–49.** {{< fa file-pdf >}} available on Canvas
 
+::: {.content-visible when-format="html"}
+### Discussion Questions
+
+1. According to Alvarez and Garcia Bedolla (2003), Latino partisanship might be more "explicitly political." What do they mean by this?
+2. Why do these researchers expect Latino partisanship to be "more political"?
+3. If Latino partisanship is "more political," is the psychological model of partisanship wrong?
+:::
 
 
 ---
