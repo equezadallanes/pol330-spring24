@@ -56,4 +56,4 @@ We will discuss the [campaign memo](../assignment/campaign-memo.html)
 [<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/652924/download?download_frd=1)
 
 
-
+:::

@@ -67,4 +67,8 @@ title: "Latino Partisanship, Ideology, and Public Opinion"
 
 
 
- 
+## Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/658006/download?download_frd=1)
+
+

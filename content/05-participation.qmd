@@ -13,6 +13,11 @@ title: "Political Participation"
 - [PEW. "Key facts about Hispanic eligible voters in 2024](https://www.pewresearch.org/short-reads/2024/01/10/key-facts-about-hispanic-eligible-voters-in-2024/)
 
 
+### Discussion Questions
+
+1. Why does Barreto (2010) argue that having a Latino candidate on the ballot may increase Latino turnout as well as support for that candidate?
+2. Think back to our discussion about Latino being a contested identity and Latinidad as a political process by which we create a Latino identity (Beltran 2010). In other words, if the category of Latino includes many different national origins, should we expect that shared ethnicity will shape voting behavior? For example, should a Puerto Rican candidate mobilize Mexican-, Salvadoran-, and Cuban-Americans? 
+
 ---
 
 
@@ -21,6 +26,13 @@ title: "Political Participation"
 ### Readings 
 
 1. Gutierrez, Angela, Angela X. Ocampo, Matt A. Barreto, and Gary Segura. 2019. "Somos Más: How Racial Threat and Anger Mobilized Latino Voters in the Trump Era." *Political Research Quarterly* 72(4): 960–75. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1177%2F1065912919844327)
+
+
+### Discussion Questions
+
+1. What do Gutierrez et al. (2019) argue?
+2. How are the theoretical concepts (e.g., racial threat and anger) measured (or *operationalized*)? Do you think these are appropriate measures?
+3. What are the implications for Latino mobilization in future elections?
 
 
 ---
