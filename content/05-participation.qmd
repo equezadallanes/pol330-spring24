@@ -52,7 +52,7 @@ title: "Political Participation"
 
 ### Readings
 
-1. Michelson, Melissa R. 2016. "Healthy Skepticism or Corrosive Cynicism? New Insights into the Roots and Results of Latino Political Cynicism." *RSF: The Russell Sage Foundation Journal of the Social Sciences* 2(3): 60–77. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.7758%2FRSF.2016.2.3.04)
+~~1. Michelson, Melissa R. 2016. "Healthy Skepticism or Corrosive Cynicism? New Insights into the Roots and Results of Latino Political Cynicism." *RSF: The Russell Sage Foundation Journal of the Social Sciences* 2(3): 60–77. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.7758%2FRSF.2016.2.3.04)~~
 
 
 ---
