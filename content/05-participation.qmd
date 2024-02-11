@@ -40,7 +40,7 @@ title: "Political Participation"
 
 ## Monday, February 12
 
-- Campaign strategy memo workshop/peer reviews
+- Campaign strategy memo [workshop/peer reviews](../assignment/campaign-memo.qmd)
 
 **Full draft of campaign memo due at the beginning of class on Canvas.**
 
