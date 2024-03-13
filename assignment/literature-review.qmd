@@ -16,7 +16,7 @@ format:
 ---
 
 :::{.callout-important}
-Due March 29th at 11:59 pm on Canvas
+UPDATED: Due March 31st at 11:59 pm on Canvas
 :::
 
 ::: {.content-visible when-format="html"}
