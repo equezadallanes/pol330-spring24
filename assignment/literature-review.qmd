@@ -16,7 +16,7 @@ format:
 ---
 
 :::{.callout-important}
-UPDATED: Due March 31st at 11:59 pm on Canvas
+UPDATED: Due April 1st at 11:59 pm on Canvas
 :::
 
 ::: {.content-visible when-format="html"}
@@ -52,4 +52,4 @@ A successful literature review will:
 Check out this [great guide on writing a literature review in political science](https://libguides.seattleu.edu/c.php?g=705070&p=5006769) put together by the library at Seattle University.
 
 
-
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides from class </span></p>](https://agnesscott.instructure.com/files/671667/download?download_frd=1)

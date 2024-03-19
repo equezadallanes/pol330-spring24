@@ -8,6 +8,10 @@ title: "The Politics of Immigration"
 
 1. Literature Review Guide from Seattle University [{{< fa arrow-up-right-from-square >}}](https://library.seattleu.edu/c.php?g=705070&p=5006769)
 
+### Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/671667/download?download_frd=1)
+
 
 ---
 
